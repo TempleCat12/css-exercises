@@ -1,0 +1,16 @@
+.p-odd{
+    background-color: #fccbd3;
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+#div1{
+    font-size: 36px;
+    color: rgb(0,0,255);
+}
+.p-font{
+    font-size: 24px;
+}
+#div2{
+    background-color: rgb(53, 211, 53);
+    font-size: 24px;
+    font-weight: bold;
+}
